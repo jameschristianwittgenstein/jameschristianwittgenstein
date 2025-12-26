@@ -1,16 +1,17 @@
-## Hi there 👋
+# こんにちは、ジェームズです 👋
 
-<!--
-**jameschristianwittgenstein/jameschristianwittgenstein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+私の GitHub へようこそ！
 
-Here are some ideas to get you started:
+## 自己紹介
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🇫🇷 フランス語を勉強中です（2019年に DELF-B2 合格）また、ギターも練習しています。いつかパリに住むことが目標です。
+*   🧠 **計算言語学（Computational Linguistics）** に興味があり、今年 **ワシントン大学の CL 修士課程**への入学を目指しています。
+
+## スキル
+
+*   **言語**: Python
+*   **ツール・フレームワーク**: PyTorch
+
+GitHub をご覧いただき、ありがとうございます！ 🚀
+
+***
